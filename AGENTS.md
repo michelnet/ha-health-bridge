@@ -3,8 +3,8 @@
 This repository owns `custom_components/ha_health_bridge`, installation metadata
 and integration releases for Home Assistant 2026.11+.
 
-GitHub repository: `michelnet/ha-health-bridge`. Keep it private until the user
-explicitly requests public access again. This integration builds independently.
+GitHub repository: `michelnet/ha-health-bridge`, public. This integration builds
+independently. Keep the repository limited to distributable integration sources.
 
 Do not include personal filesystem paths or external workspace layouts in
 source files, documentation, commit messages or generated artifacts.

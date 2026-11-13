@@ -8,7 +8,7 @@ Requires **Home Assistant 2026.11 or later**. The optional integration supports 
 
 ## Installation
 
-Source repository: [michelnet/ha-health-bridge](https://github.com/michelnet/ha-health-bridge). Until public access and the first integration release are available, use the manual installation below.
+Public source repository: [michelnet/ha-health-bridge](https://github.com/michelnet/ha-health-bridge). Until the first integration release is available, use the manual installation below.
 
 After publication, add its GitHub URL under **Settings → Marketplace** as a custom repository of type **Integration**, install HA Health Bridge, then add **HA Health Bridge** under **Settings → Devices & services**. Follow any restart request shown by Home Assistant. Inclusion in the default Marketplace catalog is a separate review.
 
