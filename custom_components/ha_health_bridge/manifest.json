@@ -1,0 +1,13 @@
+{
+  "domain": "ha_health_bridge",
+  "name": "HA Health Bridge",
+  "codeowners": ["@michelnet"],
+  "config_flow": true,
+  "dependencies": ["http"],
+  "documentation": "https://github.com/michelnet/ha-health-bridge",
+  "integration_type": "hub",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/michelnet/ha-health-bridge/issues",
+  "requirements": [],
+  "version": "0.4.2"
+}

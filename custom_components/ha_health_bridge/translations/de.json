@@ -1,0 +1,12 @@
+{
+  "title": "HA Health Bridge",
+  "config": {
+    "step": {
+      "user": {
+        "title": "HA Health Bridge",
+        "description": "Registrierte Sensoren mit dauerhaften eindeutigen IDs für die iPhone-App HA Health Bridge anlegen. In der App die vorhandene Home-Assistant-Adresse und einen langlebigen Token eines Administrators verwenden. Kein zusätzlicher Server und kein MQTT-Broker nötig."
+      }
+    },
+    "abort": {"already_configured": "HA Health Bridge ist bereits eingerichtet."}
+  }
+}

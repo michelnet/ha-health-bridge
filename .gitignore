@@ -1,0 +1,13 @@
+.venv/
+.build/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+/docs/
+/example/
+/examples/
+/tests_ha/
+/requirements_test.txt
+/pyproject.toml
+/tools/

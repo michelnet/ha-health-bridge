@@ -1,0 +1,12 @@
+{
+  "title": "HA Health Bridge",
+  "config": {
+    "step": {
+      "user": {
+        "title": "HA Health Bridge",
+        "description": "Create registered sensors with stable unique IDs for the HA Health Bridge iPhone app. Use the existing Home Assistant URL and an administrator's long-lived token in the app. No additional server or MQTT broker is needed."
+      }
+    },
+    "abort": {"already_configured": "HA Health Bridge is already configured."}
+  }
+}
