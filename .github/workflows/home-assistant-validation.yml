@@ -4,6 +4,9 @@ on:
     paths:
       - 'custom_components/**'
       - 'hacs.json'
+      - 'LICENSE'
+      - 'NOTICE'
+      - 'README.md'
       - '.github/workflows/home-assistant-validation.yml'
   pull_request:
   workflow_dispatch:
