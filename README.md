@@ -2,6 +2,8 @@
 
 ![HA Health Bridge](custom_components/ha_health_bridge/brand/logo.png)
 
+**Companion iPhone app:** [Website (Deutsch)](https://ha-health-bridge.michelnet.ch/) · [Website (English)](https://ha-health-bridge.michelnet.ch/en/) · [Setup help](https://ha-health-bridge.michelnet.ch/en/support/). The website introduces the app and shows screenshots using fictional demo data.
+
 Register Apple Health values exported by the HA Health Bridge iPhone app as Home Assistant sensors, with stable unique IDs and one device per iPhone export source. Names, entity IDs, icons and areas changed in Home Assistant remain intact when new values arrive.
 
 Requires **Home Assistant 2026.11 or later**. The optional integration supports **Apple Health → Home Assistant**. Importing Home Assistant measurements into Apple Health does not require it. No additional cloud service or MQTT broker is needed.
